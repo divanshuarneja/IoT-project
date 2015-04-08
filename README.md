@@ -43,5 +43,5 @@ browser to
 
 localhost:8000
 
-[NOTE] - Please contact Jason <mrcruz86@gmail.com>  to test the application with 
+[NOTE] - Please contact Jason/Divanshu <mrcruz86@gmail.com> <divanshu.arneja@gmail.com> to test the application with 
 the device running.
